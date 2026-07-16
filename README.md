@@ -157,6 +157,14 @@ Become an AI Engineer and build impactful AI-powered software.
 
 ---
 
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/krishchawla2006/krishchawla2006/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+</p>
+
+---
+
 # 📚 Currently Learning
 
 - Artificial Intelligence
