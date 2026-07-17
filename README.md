@@ -110,9 +110,9 @@ Become an AI Engineer and build impactful AI-powered software.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=krishchawla2006&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=krishchawla2006&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishchawla2006&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=krishchawla2006&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -139,7 +139,7 @@ Become an AI Engineer and build impactful AI-powered software.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=krishchawla2006&theme=algolia&column=4"/>
+<img src="https://trophy.ryglcloud.net/?username=krishchawla2006&theme=algolia&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true"/>
 
 </p>
 
